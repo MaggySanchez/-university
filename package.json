@@ -1,0 +1,21 @@
+{
+  "name": "backend-16-m4-c13",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> Herencia y Abstracción </h1>",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/model/model.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jsonfile": "^6.1.4",
+    "@types/node": "^20.11.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "jsonfile": "^6.1.0"
+  }
+}
